@@ -98,7 +98,3 @@ Fully diluted share count was calculated by including:
 - Options (if material)
 
 This ensures accurate per-share equity value.
-
----
-
-## Project Structure

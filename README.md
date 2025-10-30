@@ -43,7 +43,7 @@ These forecasts drive annual *Free Cash Flow (FCF)* generation.
 
 ## Discount Rate (WACC)
 Weighted Average Cost of Capital was calculated using:
-- *Cost of Equity via CAPM*
+- *Cost of Equity 
 - *Cost of Debt after tax*
 - *Market-based capital structure*
 
